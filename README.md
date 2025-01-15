@@ -1,4 +1,4 @@
-# Road Accidents Analysis and Prediction
+# Accident Severity Prediction
 
 ## Overview
 This project analyzes and predicts accident severity using the US Accidents dataset. It involves data cleaning, feature engineering, exploratory data analysis (EDA), and machine learning model development to provide insights into accident severity and contributing factors. The ultimate goal is to contribute to improved road safety by making data-driven recommendations.
